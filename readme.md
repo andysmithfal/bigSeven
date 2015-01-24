@@ -1,6 +1,6 @@
 bigSeven
 ========
-
+![displays](https://raw.githubusercontent.com/andysmithfal/bigSeven/master/displays.jpg)
 ![bigSeven](https://raw.githubusercontent.com/andysmithfal/bigSeven/master/board.jpg)
 
 An Open Source Hardware project for making BIG seven segment displays. 
